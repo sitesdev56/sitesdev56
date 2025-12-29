@@ -1,6 +1,6 @@
 # Hi 👋, I'm Diego Lima
 
-🚀 **Senior Software Engineer | JavaScript**  
+🚀 **Junior Software Engineer | JavaScript**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
@@ -52,16 +52,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sitesdev56&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitesdev56&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
